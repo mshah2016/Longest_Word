@@ -1,14 +1,14 @@
 # Longest_Word
 
-Prerequisites
+Prerequisites:
 
 - Python IDE needs to be installed
 
 
-Getting Project copy
+Getting Project copy:
 
-- Download Project in local drive
-- Unzip folder
+- Clone Project using this command:
+Git Clone https://github.com/mshah2016/Longest_Word <local project folder name>
 - Open project in Python IDE
 
 
@@ -33,4 +33,6 @@ Running the tests:
     -This is unit test with combination of positive/negative scenarios
     
 
-     
+
+
+Thank you for visiting my project.
